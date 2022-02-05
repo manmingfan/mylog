@@ -1,0 +1,2 @@
+# mylog
+record daily learning
